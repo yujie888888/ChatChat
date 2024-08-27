@@ -34,7 +34,7 @@
         <Button id="login_button" styleClass="login_button" layoutX="200" layoutY="345" prefWidth="250" prefHeight="45" text="登 陆"/>
 
         <Label id="slogan" layoutX="5" layoutY="398" prefWidth="400" prefHeight="15"
-               text="v1.0 小傅哥 | https://bugstack.cn">
+               text="Text">
             <font>
                 <Font size="12"/>
             </font>
